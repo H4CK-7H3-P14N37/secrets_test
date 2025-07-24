@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os
 
 gh_key = "ghp_FAKE1234567890abcdefg1234567890abcdef"
