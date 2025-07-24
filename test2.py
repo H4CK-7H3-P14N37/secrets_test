@@ -1,0 +1,7 @@
+import os
+
+gh_key = "ghp_FAKE1234567890abcdefg1234567890abcdef"
+AWS_ACCESS_KEY_ID = "AKIA1234567890FAKE"
+AWS_SECRET_ACCESS_KEY = "abc123fakeSecretKeyValueExample1234567890"
+stripe_key = "sk_test_4eC39HqLyjWDarjtT1zdp7dc"
+twilio = "SK12345678901234567890123456789012"
