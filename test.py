@@ -1,0 +1,4 @@
+password = "ATATT3xFfGF0HCOLhOshoNyuL34jsYdIBgPlqNCnXiB5hXqSI2qq05lT5q6RCRLVOt4ThoHmqyHOaf1w7DYYmeL1Y8yyYq980JtQoaAwiHL7wJzjHUGU-a5DHgw9CIUEPkoeZUTlIvg1d6r7u43_AU08nyYZ0PEsi922aWNV6tUJOD-NlOlENUE=asdfasdf"
+stuff_pass = "pypi-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+aaaa_pass = "sk-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+aws_pass = "AKIAAAAAAAAAAAAAAAAA"
