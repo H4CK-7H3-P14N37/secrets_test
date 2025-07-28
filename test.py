@@ -3,6 +3,4 @@ password = "ATATT3xFfGF0HCOLhOshoNyuL34jsYdIBgPlqNCnXiB5hXqSI2qq05lT5q6RCRLVOt4T
 stuff_pass = "pypi-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 aaaa_pass = "sk-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 aws_pass = "AKIAAAAAAAAAAAAAAAAA"
-
-
 github_pat = "github_pat_aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
